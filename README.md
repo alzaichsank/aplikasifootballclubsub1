@@ -3,7 +3,7 @@ submission dicoding 1
 
 ## Preview
 <img src="https://github.com/alzaichsank/aplikasifootballclubsub1/blob/master/preview/listPreview.png" width=256/>&nbsp;
-<img src="https://github.com/alzaichsank/aplikasifootballclubsub1//preview/detailPreview.png" width=256/>&nbsp;
+<img src="https://github.com/alzaichsank/aplikasifootballclubsub1/blob/master/preview/detailPreview.png" width=256/>&nbsp;
 
 ### Fitur yang harus ada pada aplikasi Anda adalah :
 1. Menampilkan list data ke dalam RecyclerView.
